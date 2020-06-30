@@ -1,0 +1,23 @@
+instalar npm global
+npm install -g create-react-app
+
+criar projeto
+create-react-app hello-world
+
+em ts
+ create-react-app 05-primeiro-projeto-react --template=typescript
+
+inicia
+ yarn start 
+
+rotas
+ yarn add react-router-dom
+
+problema import
+ yarn add @types/react-router-dom -D
+
+ yarn add styled-components
+
+  yarn add @types/styled-components -D
+
+  yarn add polished

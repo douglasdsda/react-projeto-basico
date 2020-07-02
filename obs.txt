@@ -8,7 +8,7 @@ em ts
  create-react-app 05-primeiro-projeto-react --template=typescript
 
 inicia
- yarn start 
+ yarn start
 
 rotas
  yarn add react-router-dom
@@ -20,4 +20,13 @@ problema import
 
   yarn add @types/styled-components -D
 
+bibliotecas de cores
   yarn add polished
+
+  yarn add react-icons
+
+  yarn add axios
+
+
+--eslint
+  yarn add eslint@6.8.0 -D
